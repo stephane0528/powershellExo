@@ -1,4 +1,4 @@
-Sur bash  cp                             
+Sur bash : cp                             
 powershell:  Cop-Item  
 rm :Remove-Item                             
 cd :Set-Location                               
